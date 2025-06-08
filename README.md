@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Computer Science Undergraduate @ IIIT Sonepat | Driven by a passion for technology and a constant thirst for knowledge."
+"Computer Science Undergraduate @IIIT Sonepat | Driven by a passion for technology and a constant thirst for knowledge."
 
 
 
