@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" alt="Cyberpunk Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/Priyadarshan-Garg/Priyadarshan-Garg/main/res/wp12228129-cyberpunk-ultrawide-wallpapers.jpg" alt="Cyberpunk Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Priyadarshan Garg</h1>
 <h3 align="center">🚀 Backend Engineer | High-Performance Systems | AI Enthusiast</h3>
 
-<p align="center">
-  <em>"Building scalable systems that don't crash under pressure."</em>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22)%3B;Initializing+Backend+Systems...;Loading+Spring+Boot+Modules...;Connecting+to+Neural+Networks...;Priyadarshan+Garg+is+Online+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/priyadarshan-garg">
@@ -25,6 +27,7 @@
 - 🛠️ I build scalable backends using **Java (Spring Boot), Docker & Microservices**
 - 🧠 I optimize code for speed using **CUDA & Multithreading**
 - ⚡ **Achievement:** LeetCode Rating 1557 | Solved 550+ DSA Problems
+- 🌱 I’m currently learning **Golang (Go) & System Design**
 
 ---
 
@@ -61,13 +64,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyadarshan-Garg&theme=tokyonight" alt="Profile Details" />
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan-Garg&theme=tokyonight&layout=compact&hide=html,css,jupyter%20notebook" alt="Top Languages" />
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyadarshan-Garg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyadarshan-Garg&theme=tokyonight" alt="Profile Details" />
+
+<br/>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyadarshan-Garg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan-Garg&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook&hide_border=true" alt="Languages" />
+</p>
+
 </div>
 
 <br/>
@@ -77,5 +83,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Priyadarshan-Garg/Priyadarshan-Garg/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Priyadarshan-Garg/Priyadarshan-Garg/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
