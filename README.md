@@ -31,22 +31,51 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Languages & Frameworks
 <p align="left">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> 
   </a>&nbsp;
+  <a href="https://kotlinlang.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/> 
+  </a>&nbsp;
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/> 
+  </a>&nbsp;
+  <a href="https://hibernate.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="45" height="45"/> 
   </a>&nbsp;
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
   </a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> 
+  <a href="https://isocpp.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/> 
+  </a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> 
+  </a>
+</p>
+
+### 🧠 AI, Libraries & Databases
+<p align="left">
+  <a href="https://opencv.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/> 
   </a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
+  </a>&nbsp;
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" alt="nvidia" width="50" height="45"/> 
+  </a>&nbsp;
+   <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> 
+  </a>
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> 
   </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
@@ -54,8 +83,20 @@
   <a href="https://postman.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
   </a>&nbsp;
-  <a href="https://developer.nvidia.com/cuda-zone" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" alt="nvidia" width="50" height="45"/> 
+  <a href="https://maven.apache.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="45" height="45"/> 
+  </a>&nbsp;
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/> 
+  </a>&nbsp;
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
+  </a>&nbsp;
+  <a href="https://www.unrealengine.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="45" height="45"/> 
+  </a>&nbsp;
+  <a href="https://www.blender.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/> 
   </a>
 </p>
 
@@ -65,21 +106,20 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyadarshan-Garg&theme=tokyonight" alt="Profile Details" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyadarshan-Garg&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+</a>
 
-<br/>
+<br/><br/>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyadarshan-Garg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan-Garg&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook&hide_border=true" alt="Languages" />
-</p>
+
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Priyadarshan-Garg/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.deno.dev/Priyadarshan-Garg/count.svg" alt="Visitor Count" />
 </div>
 
 <div align="center">
