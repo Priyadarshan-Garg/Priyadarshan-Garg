@@ -123,5 +123,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Priyadarshan-Garg/Priyadarshan-Garg/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/Priyadarshan-Garg/Priyadarshan-Garg/blob/output/github-snake-dark.svg" alt="Snake Animation" />
 </div>
