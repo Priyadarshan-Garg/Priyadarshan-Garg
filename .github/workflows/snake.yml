@@ -1,14 +1,9 @@
 name: Generate Snake
 
 on:
-  # Har roz raat ke 12 baje chalega
   schedule:
     - cron: "0 0 * * *" 
-  
-  # Ya jab tu manually run karega
   workflow_dispatch:
-
-  # Ya jab tu main branch mein kuch push karega
   push:
     branches:
     - main
@@ -21,20 +16,29 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Step 1: Tera code checkout karega
       - name: Checkout
         uses: actions/checkout@v3
 
-      # Step 2: Snake generate karega (Platane/snk use karke)
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # 1. Simple Dark Mode (Standard)
+            dist/snake-dark.svg?palette=github-dark
+            
+            # 2. OCEAN THEME (Blue/Cyan - Bohot soothing lagta hai)
+            dist/snake-ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            
+            # 3. CYBERPUNK NEON (Mera Favorite - Dark Background + Neon Pink/Purple) 😈
+            dist/snake-neon.svg?color_snake=#00E5FF&color_dots=#161B22,#30115e,#7a1c9c,#c226da,#ff2eff
+            
+        env:
+          # Note: Agar private repo count nahi ho rha, toh niche line uncomment karke
+          # secrets.GH_TOKEN use kar (jo pichle step me sikhaya tha)
+          # GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Generated snake ko 'output' branch mein push karega
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
