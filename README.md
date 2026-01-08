@@ -122,6 +122,7 @@
   <img src="https://profile-counter.deno.dev/Priyadarshan-Garg/count.svg" alt="Visitor Count" />
 </div>
 
+
 <div align="center">
-  <img src="https://github.com/Priyadarshan-Garg/Priyadarshan-Garg/blob/output/github-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/Priyadarshan-Garg/Priyadarshan-Garg/blob/output/snake-neon.svg" alt="Snake Animation" />
 </div>
