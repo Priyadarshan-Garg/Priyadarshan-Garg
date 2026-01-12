@@ -106,20 +106,20 @@
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyadarshan-Garg&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
-</a>
+<!-- <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Priyadarshan-Garg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div> -->
 
 <br/><br/>
 
 
-
-</div>
-
 <br/>
 
+<!-- <div align="center">
+    <img src="https://profile-counter.glitch.me/Priyadarshan-Garg/count.svg" alt="Visitor Count" />
+</div> -->
 <div align="center">
-  <img src="https://profile-counter.deno.dev/Priyadarshan-Garg/count.svg" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=Priyadarshan-Garg&color=blue" alt="Visitor Count" />
 </div>
 
 
