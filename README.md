@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on **High-Performance AI Inference Engines (FaceMorphX)**
 - 🛠️ I build scalable backends using **Java (Spring Boot), Docker & Microservices**
 - 🧠 I optimize code for speed using **CUDA & Multithreading**
-- ⚡ **Achievement:** LeetCode Rating 1557 | Solved 550+ DSA Problems
+- ⚡ **Achievement:** LeetCode Rating 1557 | Solved 650+ DSA Problems
 - 🌱 I’m currently learning **Golang (Go) & System Design**
 
 ---
