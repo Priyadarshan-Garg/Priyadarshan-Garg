@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on **High-Performance AI Inference Engines (FaceMorphX)**
 - 🛠️ I build scalable backends using **Java (Spring Boot), Docker & Microservices**
 - 🧠 I optimize code for speed using **CUDA & Multithreading**
-- ⚡ **Achievement:** LeetCode Rating 1679 | Solved 650+ DSA Problems
+- ⚡ **Achievement:** LeetCode Rating 1679 | Solved 700+ DSA Problems
 - 🌱 I’m currently learning **Golang (Go) & System Design**
 
 ---
@@ -36,9 +36,7 @@
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> 
   </a>&nbsp;
-  <a href="https://kotlinlang.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/> 
-  </a>&nbsp;
+
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/> 
   </a>&nbsp;
