@@ -3,12 +3,12 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Priyadarshan Garg</h1>
-<h3 align="center">🚀 Backend Engineer | High-Performance Systems | AI Enthusiast</h3>
+<h3 align="center"> Backend Engineer | High-Performance Systems | AI Enthusiast</h3>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22)%3B;Initializing+Backend+Systems...;Loading+Spring+Boot+Modules...;Connecting+to+Neural+Networks...;Priyadarshan+Garg+is+Online+%E2%9A%A1" alt="Typing SVG" />
-  </a>
+  </a> -->
 </div>
 
 <p align="center">
@@ -23,11 +23,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **High-Performance AI Inference Engines (FaceMorphX)**
-- 🛠️ I build scalable backends using **Java (Spring Boot), Docker & Microservices**
-- 🧠 I optimize code for speed using **CUDA & Multithreading**
-- ⚡ **Achievement:** LeetCode Rating 1733 | Solved 700+ DSA Problems
-- 🌱 I’m currently learning **Golang (Go) & System Design**
+-  I’m currently working on **High-Performance AI Inference Engines (FaceMorphX)**
+-  I build scalable backends using **Java (Spring Boot), Docker & Microservices**
+-  I optimize code for speed using **CUDA & Multithreading**
+-  **Achievement:** LeetCode Rating 1733 | Solved 700+ DSA Problems
+-  I’m currently learning **Golang (Go) & System Design**
 
 ---
 
