@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Priyadarshan-Garg/Priyadarshan-Garg/main/res/wp12228129-cyberpunk-ultrawide-wallpapers.jpg" alt="Cyberpunk Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Priyadarshan Garg</h1>
+<h1 align="center">Hi, I'm Priyadarshan Garg</h1>
 <h3 align="center"> Backend Engineer | High-Performance Systems | AI Enthusiast</h3>
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 -  I’m currently working on **High-Performance AI Inference Engines (FaceMorphX)**
 -  I build scalable backends using **Java (Spring Boot), Docker & Microservices**
 -  I optimize code for speed using **CUDA & Multithreading**
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Languages & Frameworks
+### Languages & Frameworks
 <p align="left">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> 
@@ -54,7 +54,7 @@
   </a>
 </p>
 
-### 🧠 AI, Libraries & Databases
+### AI, Libraries & Databases
 <p align="left">
   <a href="https://opencv.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/> 
@@ -70,7 +70,7 @@
   </a>
 </p>
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> 
@@ -100,7 +100,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -113,10 +113,10 @@
 
 <br/>
 
-<!-- <div align="center">
+ <!-- <div align="center">
     <img src="https://profile-counter.glitch.me/Priyadarshan-Garg/count.svg" alt="Visitor Count" />
 </div> -->
-<div align="center">
+<div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Priyadarshan-Garg&color=blue" alt="Visitor Count" />
 </div>
 
