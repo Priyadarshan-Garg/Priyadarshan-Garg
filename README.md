@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Priyadarshan Garg</h1>
-<h3 align="center">Backend Engineer • High-Performance Systems • AI Enthusiast</h3>
+<h3 align="center">Backend Engineer • High-Performance Systems • AI Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/priyadarshan-garg">
@@ -18,11 +18,11 @@
 
 ## About Me
 
-* Working on **High-Performance AI Inference Engines (FaceMorphX)**
-* Building scalable systems using **Java (Spring Boot), Docker, Microservices**
+* Working on **High-Performance AI Inference Engines (Synapse)**
+* I make complex systems.
 * Performance optimization using **CUDA & Multithreading**
-* **LeetCode Rating: 1778 (MAX)** | 750+ DSA Problems
-* Currently learning **Golang & System Design**
+* **LeetCode Rating: 1778 (MAX)** |  [800+ DSA Problems](https://leetcode.com/u/Priyadarshan_Garg/)
+
 
 ---
 
@@ -74,3 +74,4 @@
 <div align="center">
   <img src="https://github.com/Priyadarshan-Garg/Priyadarshan-Garg/blob/output/snake-neon.svg"/>
 </div>
+
