@@ -21,7 +21,7 @@
 * Working on **High-Performance AI Inference Engines (Synapse)**
 * I make complex systems.
 * Performance optimization using **CUDA & Multithreading**
-* **LeetCode Rating: Kinght 1860 (MAX)** |  [800+ DSA Problems](https://leetcode.com/u/Priyadarshan_Garg/)
+* **LeetCode Rating: Kinght 1926 (MAX)** |  [870+ DSA Problems](https://leetcode.com/u/Priyadarshan_Garg/)
 
 
 ---
